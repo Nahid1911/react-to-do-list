@@ -1,8 +1,12 @@
-<a name="To-Do-List"></a>
+<a name="readme-top"></a>
 
-  <h1><b>To-Do-List</b></h1>
+<div align="center">
+
+  <h3><b>To Do List</b></h3>
 
 </div>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -10,14 +14,12 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-  - [Install](#install)
+  - [Setup](#setup)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -26,23 +28,41 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [To-Do-List] <a name="To-Do-List"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**[To-Do-List]**  is a project that will allow you to create a list of tasks that will be executed . 
+# 📖 ToDo List with React <a name="about-project"></a>
+
+this is a project to create daily to do list with javascript, HTML, CSS.
+
 ## 🛠 Built With <a name="built-with"></a>
 
-- **[CSS]**
-- **[html]**
-- **[java-script]**
+### Tech Stack <a name="tech-stack"></a>
 
-## Additional Tools
+<details>
+  <summary>Software</summary>
+  <ul>
+    <li><a href=" ">React</a></li>
+    <li><a href=" ">Vite</a></li>
+  </ul>
+</details>
 
-- WebHint
-- Stylelint
-- Node Packet Manager
-- webpack
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- Daily to do list
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+Live demo is not available right now.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -50,71 +70,84 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to clone this project you need:
- ### Setup
--  go to your terminal 
-- write this command line : 
+In order to run this project you need:
 
-git clone https://github.com/ANTOINE1128/To-Do-List.git
+Install text editor like Visual Studio,
+Node.js need to be available in your local machine
 
-- Clone this repository to your desired folder:
+### Setup
+
+Clone this repository to your desired folder using the command:
+
+```sh
+  cd folder_name
+  git clone gh repo clone Nahid1911/react-to-do-list
+```
+
+### Usage
+
+After cloning the project you can customize it replacing the personal information with required information:
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- AUTHORS -->
+
 ## 👥 Authors <a name="authors"></a>
 
-👤 
+Collaborators of this project is:
 
-- **Alijan Rahimi**
+👤 Mohammad Nahid Raihan Sardar
 
+- GitHub: [@githubhandle](https://github.com/Nahid1911)
+- Twitter: [@twitterhandle](https://twitter.com/Nahid1911)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nahidraihan/)
 
- -**Antoine Makdessy**
- 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- GitHub: [@ANTOINE1128](https://github.com/ANTOINE1128)
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ add more pages ] 
-- [ add styling ]
-- [ add coding playground to it where visitors can interact with ]
+- [ ] JavaScript
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project 
+If you like this project please show your support by giving stars.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-- Thanks to the Microverse team for the great curriculum.
-- Thanks to the Code Reviewer(s) for the insightful feedbacks.
-- A great thanks to My coding partner(s), morning session team, and standup team for their contributions.
 
+I would like to thank Microverse for the inspiration to create this portfolio as a part of my learning journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **How to make it mobile friendly?**
-
-  - Put a viewport tag in the header
-
-- **How to design the site?**
-
-  - Draw a mockup before start to code
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
