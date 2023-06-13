@@ -1,1 +1,0 @@
-{"version":3,"file":"styles.css","mappings":"AAAA;IACI,cAAc;EAChB","sources":["webpack://react-to-do-list/./src/styles/app.css"],"sourcesContent":["body {\r\n    color: #ff2778;\r\n  }\r\n  "],"names":[],"sourceRoot":""}
