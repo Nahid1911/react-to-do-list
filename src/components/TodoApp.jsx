@@ -1,20 +1,18 @@
-import React from "react";
-import Header from "./Header";
-import TodosLogic from "./TodosLogic";
+import React from 'react';
+import Header from './Header';
+import TodosLogic from './TodosLogic';
 
-const TodoApp = () => {
-    return (
-        <React.StrictMode>
-        <>
-        <div className="wrapper">
-          <div className="todos">
-             <Header />
-             <TodosLogic />
-          </div>
+const TodoApp = () => (
+  <React.StrictMode>
+    <>
+      <div className="wrapper">
+        <div className="todos">
+          <Header />
+          <TodosLogic />
         </div>
-        </>
-        </React.StrictMode>
-    );
-};
+      </div>
+    </>
+  </React.StrictMode>
+);
 
 export default TodoApp;
